@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/projects/TrolleyTracker/static/js/main.c283ab2d.js",
+    "main.js": "/projects/TrolleyTracker/static/js/main.ece64f8b.js",
     "index.html": "/projects/TrolleyTracker/index.html",
-    "main.c283ab2d.js.map": "/projects/TrolleyTracker/static/js/main.c283ab2d.js.map"
+    "main.ece64f8b.js.map": "/projects/TrolleyTracker/static/js/main.ece64f8b.js.map"
   },
   "entrypoints": [
-    "static/js/main.c283ab2d.js"
+    "static/js/main.ece64f8b.js"
   ]
 }
